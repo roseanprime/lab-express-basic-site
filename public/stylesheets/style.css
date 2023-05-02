@@ -1,0 +1,7 @@
+body{
+    font-family: "segoe UI", Arial, Helvetica, sans-serif;
+    font: 100px;
+    background-image:url(/images/queue.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
